@@ -1,5 +1,4 @@
-# NAS
-Neuron Simulator and Analyzer
+# NAS (Neuron Simulator and Analyzer)
 
 This repository has been used for testing only. In a near future, the project can be restarted.
 
