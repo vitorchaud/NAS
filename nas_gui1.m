@@ -70,7 +70,7 @@ function nas_gui1_OpeningFcn(hObject, eventdata, handles, varargin)
     
     set(handles.axes1, 'Units', 'pixels');
     set(handles.axes1, 'Position', [60, 50 504, 378]);
-%     imshow('firstFig2.png');
+    imshow('firstFig2.png');
 
     % Choose default command line output for nas_gui1
     handles.output = hObject;
