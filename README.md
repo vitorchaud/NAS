@@ -3,7 +3,7 @@ Neuron Simulator and Analyzer
 
 This repository has been used for testing only. In a near future, the project can be restarted.
 
-An important alert is "don't use any result from this project on your works", because there is no garanty that results are consistent in this version.
+An important alert is 'don't use any result from this project on your works', because there is no garanty that results are consistent in this version.
 
 With that said, if you want to execute NAS, just run the file "nas_gui 1.m".
 
